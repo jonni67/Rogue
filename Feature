@@ -1,0 +1,21 @@
+•	Vanish major CDs/CCs like coil from Lock or Pom Pyro from mages
+•	Vanish/cloak to buy time after cheat death talent procs, try to get a reset
+•	Use deadly throw as a ranged execute if the enemy can die
+•	If wearing the PvP gloves, use deadly throw as a ranged interrupt (ex mage try to get away and you are stuck in a frost nova, kick their poly)
+•	Diminishing return tracker to prevent short stuns etc
+•	Some kind of spell queue system to be able to make input responsive if a manual action is needed during PvP
+•	Shadowstep sap or vanish shadow step sap a druid that came out of form to cast a cyclone for example and is not in combat 
+•	Auto sap other rogues in stealth
+•	auto defensive on enemy burst option, evade big CDs
+•	ESP for stealth units, if they disappear from your clients view continue drawing the circle around the enemy in a predictive line depending which way they were last seen headed with the same velocity they were moving at to help guess which way they could have gone  (I can elaborate on this more if needed)
+•	Auto weapon swap shiv if using multiple poisoned weapons
+•	Automatic flag return
+•	Perfect stun lock rotations (I can elaborate, hopefully we can also incorporate some of the openers discussed on silentshadows.net, possibly have a few different opener options on hotkeys depending on your situation
+•	Automatic poison application on weapons
+•	Save preparation/trinket for burst, make a burst toggle, have it pool energy and dump everything on an energy uptick so you get that bonus 20 energy on the tick to put out more pressure (wait for DRs if needed
+•	Manual pooling hotkey
+•	Make sure rogue always has enough energy to be able to kick if needed quickly (basically don’t operate on 0 energy at all times, dump it during cool downs if necessary but while not pressuring for example, maintain 30 energy or spend energy right on the uptick so whatever you spend is essentially refunded during the uptick
+•	Auto CC/Stun/Gouge enemy trinket (Try to get a full CC on them that isn’t DRed after they blow their trinket)
+•	Auto cross CC, if an enemy is CCed, go for a stunlock or kill if possible
+•	Gouge mage ice block (when they are exiting ice block auto gouge them)
+•	Use gouge as a secondary interupt option if facing them the correct way
